@@ -1,0 +1,94 @@
+body {
+                
+    font-family: Arial;
+
+}
+            
+#reaction-area {
+
+    width: 1000px;
+    height: 450px;
+    position: relative;
+
+
+}
+
+#shape {
+
+    border: 1px solid black;
+}
+
+.center {
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+
+}
+
+
+
+#start {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+#score-table {
+
+    width: 300px;
+    height: 30px;
+    display: none;
+    background-color: cornsilk;
+    padding: 10px;
+}
+
+#reactionTime {
+
+    float: right;
+    margin-left: 5px;
+    border: 1px solid black;
+
+}
+
+#quickestTime {
+
+    float: right;
+    border: 1px solid black;
+    margin-right: 5px;
+
+}
+
+.clear {
+
+    clear: both;
+}
+
+#state {
+
+    float: left;
+    border: 1px solid black;
+}
+
+#myHighScore {
+    
+    float: left;
+    border: 1px solid black;
+    margin-left: 5px;
+    
+}
+
+#result-image {
+
+    width: 100%;
+    margin: 50px auto;
+
+}
+
+#result-text {
+
+    font-size: 150%;
+    margin: 20px;
+
+}
